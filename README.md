@@ -1,13 +1,14 @@
 # vehicle-registration-dashboard
 
-1. ⚙️ Setup Instructions
+1. Setup Instructions
 🎯 To run the dashboard locally:
 
 Clone the repo
 
 Install dependencies using pip
+Ex: pip install -r requirements.txt
 
-Run the app with streamlit run main.py
+Run the app with streamlit run app.py
 
 2. Data Assumptions
 This project uses synthetic data generated to simulate real-world vehicle registrations in India.
